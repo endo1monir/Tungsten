@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tungsten</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="EnServices">Services</string>
+    <string name="ArServices">خدمات</string>
+    <string name="EnPackges">Packges</string>
+    <string name="ArPackges">الباقات</string>
+    <string name="EnClients">Our Clients</string>
+    <string name="ArClients" >عملائنا</string>
+    <string name="Enaboutus">about us</string>
+    <string name="Araboutus">عن الشركة</string>
+
+    <string name="title_activity_login_actinity">loginActinity</string>
+</resources>
